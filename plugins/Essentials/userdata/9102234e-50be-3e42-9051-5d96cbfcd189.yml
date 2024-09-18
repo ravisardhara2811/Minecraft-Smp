@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726389388238
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726390392751
+  login: 1726386999961
+money: '5957.1675000000000168'
+last-account-name: MrRavi
+lastlocation:
+  world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+  world-name: world
+  x: -1070.1503267156638
+  y: 97.5
+  z: -1762.040121174864
+  yaw: -68.267333984375
+  pitch: -9.899919509887695
+homes:
+  home:
+    world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+    world-name: world
+    x: -1089.243503562732
+    y: 93.0
+    z: -1766.3630334034067
+    yaw: 139.0506591796875
+    pitch: 28.65007209777832
+logoutlocation:
+  world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+  world-name: world
+  x: -1287.9394822846361
+  y: 147.0
+  z: -1728.8132511546607
+  yaw: 23.560302734375
+  pitch: 34.950035095214844

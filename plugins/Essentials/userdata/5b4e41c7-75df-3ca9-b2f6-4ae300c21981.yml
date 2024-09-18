@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726392706471
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726145670130
+  login: 1726386027607
+money: '0'
+last-account-name: Smaayloo
+lastlocation:
+  world: 20671814-84e0-47f8-8068-22aae5cf773e
+  world-name: spawn
+  x: -732.6473319457772
+  y: 62.0
+  z: -227.3872975534983
+  yaw: -166.3665313720703
+  pitch: 4.8257269859313965
+logoutlocation:
+  world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+  world-name: world
+  x: -1085.172340372268
+  y: 94.0
+  z: -1759.3076652754578
+  yaw: -179.10101318359375
+  pitch: 19.199918746948242
+homes:
+  home:
+    world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+    world-name: world
+    x: -1086.237500011921
+    y: 93.0
+    z: -1765.103159060408
+    yaw: -87.9007797241211
+    pitch: 63.150028228759766

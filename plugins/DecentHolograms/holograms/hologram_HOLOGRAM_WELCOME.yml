@@ -1,0 +1,24 @@
+location: spawn:-732.490:65.000:-232.472
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 90.0
+origin: UP
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: GRASS_BLOCK'
+    height: 0.5
+  - content: '&a&lSurvival &8| &f&lWelcome'
+    height: 0.8
+  - content: '&fTo begin your journey playing on our network'
+    height: 0.3
+  - content: '&fdo &a/RTP&f and go to the &aRESOURCE&f world'
+    height: 0.3
+  - content: '&fto claim your land or use your'
+    height: 0.3
+  - content: '&a&ngolden shovel&f to claim a land.'
+    height: 0.7
+  actions: {}
+always-face-player: true

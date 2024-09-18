@@ -1,0 +1,23 @@
+location: SPAWN:45.500:221.000:-157.500
+enabled: true
+display-range: 64
+update-range: 64
+update-interval: 20
+facing: 0.0
+down-origin: false
+pages:
+- lines:
+  - content: '#ICON: BEACON'
+    height: 0.5
+  - content: '&a&lSurvival &8| &f&lWorld Border'
+    height: 0.8
+  - content: '&a&lʙᴜɪʟᴅ ᴡᴏʀʟᴅ &8| &f10,000 x 10,000'
+    height: 0.3
+  - content: '&a&lʀᴇꜱᴏᴜʀᴄᴇ ᴡᴏʀʟᴅ &8| &f5,000 x 5,000'
+    height: 0.3
+  - content: '&c&lɴᴇᴛʜᴇʀ ᴡᴏʀʟᴅ &8| &f10,000 x 10,000'
+    height: 0.3
+  - content: '&9&lᴛʜᴇ ᴇɴᴅ ᴡᴏʀʟᴅ &8| &f10,000 x 10,000'
+    height: 0.7
+  actions: {}
+always-face-player: true

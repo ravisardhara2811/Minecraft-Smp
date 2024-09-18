@@ -1,0 +1,49 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1722604265551
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722605447817
+  login: 1722605205275
+  kits:
+    tools: 1722598880837
+money: '105000.0'
+last-account-name: ItzOverWolf
+lastlocation:
+  world: 1a74786a-fc9a-4b08-9c45-a8fdcc3a7581
+  world-name: arena
+  x: 4.7507418123823015
+  y: 62.0
+  z: 1.6492853764563615
+  yaw: 129.7135009765625
+  pitch: 5.299293518066406
+logoutlocation:
+  world: 20671814-84e0-47f8-8068-22aae5cf773e
+  world-name: spawn
+  x: -731.9535538827092
+  y: 62.0
+  z: -231.01902954630953
+  yaw: -18.016845703125
+  pitch: 8.575726509094238
+homes:
+  home:
+    world: 09485187-7767-4d2e-9fb5-5853484947ca
+    world-name: world
+    x: -243.81856183725395
+    y: 69.0
+    z: 563.6088244318507
+    yaw: 49.94287109375
+    pitch: 9.899049758911133

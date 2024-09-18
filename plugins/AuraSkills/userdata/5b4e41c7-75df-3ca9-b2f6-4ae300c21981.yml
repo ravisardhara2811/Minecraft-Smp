@@ -1,0 +1,60 @@
+uuid: 5b4e41c7-75df-3ca9-b2f6-4ae300c21981
+skills:
+  auraskills/farming:
+    level: 1
+    xp: 0.0
+  auraskills/fighting:
+    level: 1
+    xp: 42.0
+  auraskills/foraging:
+    level: 4
+    xp: 821.2399999999966
+  auraskills/excavation:
+    level: 1
+    xp: 20.800000000000008
+  auraskills/agility:
+    level: 3
+    xp: 436.79999999999995
+  auraskills/fishing:
+    level: 1
+    xp: 0.0
+  auraskills/sorcery:
+    level: 1
+    xp: 5.0
+  auraskills/healing:
+    level: 1
+    xp: 0.0
+  auraskills/defense:
+    level: 1
+    xp: 57.907466888427734
+  auraskills/endurance:
+    level: 4
+    xp: 331.3086640000001
+  auraskills/alchemy:
+    level: 1
+    xp: 0.0
+  auraskills/forging:
+    level: 1
+    xp: 0.0
+  auraskills/archery:
+    level: 1
+    xp: 0.0
+  auraskills/mining:
+    level: 3
+    xp: 239.8899999999988
+  auraskills/enchanting:
+    level: 1
+    xp: 0.0
+locale: en
+mana: 24.0
+action_bar:
+  idle: true
+trait_modifiers:
+  '0':
+    name: mining_luck_ability
+    trait: auraskills/mining_luck
+    value: 3.0
+  '1':
+    name: foraging_luck_ability
+    trait: auraskills/foraging_luck
+    value: 10.0
