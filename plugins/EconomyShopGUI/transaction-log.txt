@@ -3,3 +3,264 @@
 [2024-09-12 11:28:50] - MrRavi bought 17 x Cooked Beef(Food.page1.items.11) for $107.10 with the buy screen.
 [2024-09-12 11:50:34] - MrRavi bought 4 x String(Mobs.page1.items.18) for $28 with the buy screen.
 [2024-09-12 12:52:53] - MrRavi bought 1 x Grass Block(Blocks.page3.items.103) for $8 with the buy screen.
+[2024-09-18 12:12:06] - Smaayloo bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy stacks screen.
+[2024-09-18 12:12:09] - Smaayloo bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy stacks screen.
+[2024-09-18 12:52:31] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-18 12:52:45] - Smaayloo bought 1 x Cobblestone(Blocks.page2.items.54) for $0.68 with the buy screen.
+[2024-09-18 12:52:52] - Smaayloo bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-09-18 12:52:54] - Smaayloo bought 64 x Cobblestone(Blocks.page2.items.54) for $43.52 with the buy screen.
+[2024-09-18 12:54:08] - MrRavi bought 1 x Mangrove Fence Gate(Blocks.page5.items.198) for $2.73 with the buy screen.
+[2024-09-18 12:55:30] - MrRavi bought 1 x Note Block(Redstone.page1.items.10) for $11.69 with the buy screen.
+[2024-09-18 12:55:52] - MrRavi bought 2 x Piston(Redstone.page1.items.22) for $65.48 with the buy screen.
+[2024-09-18 12:56:24] - MrRavi bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-09-18 12:59:08] - MrRavi bought 1 x Observer(Redstone.page1.items.11) for $50.04 with the buy screen.
+[2024-09-18 12:59:50] - MrRavi bought 1 x String(Mobs.page1.items.18) for $7 with the buy screen.
+[2024-09-18 13:00:16] - MrRavi bought 1 x Oak Leaves(Decoration.page2.items.61) for $3 with the buy screen.
+[2024-09-18 13:00:55] - MrRavi bought 1 x Dispenser(Redstone.page1.items.3) for $34.94 with the buy screen.
+[2024-09-18 13:01:59] - Smaayloo bought 17 x Cobblestone(Blocks.page2.items.54) for $11.56 with the buy screen.
+[2024-09-18 13:02:01] - Smaayloo bought 17 x Cobblestone(Blocks.page2.items.54) for $11.56 with the buy screen.
+[2024-09-18 13:03:22] - Smaayloo bought 1 x Cobblestone(Blocks.page2.items.54) for $0.68 with the buy screen.
+[2024-09-18 13:04:01] - MrRavi bought 2 x Iron Ingot(Ores.page1.items.16) for $42 with the buy screen.
+[2024-09-18 13:06:41] - MrRavi bought 64 x Iron Ingot(Ores.page1.items.16) for $1,344 with the buy screen.
+[2024-09-18 13:10:00] - MrRavi bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $69.62 with the buy screen.
+[2024-09-18 13:12:22] - MrRavi bought 33 x Stone(Blocks.page1.items.11) for $23.75 with the buy screen.
+[2024-09-18 13:13:09] - MrRavi bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $69.62 with the buy screen.
+[2024-09-18 13:13:45] - MrRavi bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $69.62 with the buy screen.
+[2024-09-18 13:28:29] - MrRavi bought 1 x String(Mobs.page1.items.18) for $7 with the buy screen.
+[2024-09-18 13:39:57] - MrRavi sold 64 x Rail(Miscellaneous.page2.items.63) for $192 with the sell screen.
+[2024-09-18 13:40:03] - MrRavi sold 83 x Rail(Miscellaneous.page2.items.63) for $249 with the sell all command.
+[2024-09-18 13:40:42] - MrRavi bought 2 x String(Mobs.page1.items.18) for $14 with the buy screen.
+[2024-09-18 13:41:02] - MrRavi bought 1 x Dispenser(Redstone.page1.items.3) for $34.94 with the buy screen.
+[2024-09-18 13:47:08] - MrRavi bought 4 x Repeater(Redstone.page1.items.18) for $80.76 with the buy screen.
+[2024-09-18 13:51:43] - MrRavi sold 230 x String(Mobs.page1.items.18) for $402.50 with the sell all command.
+[2024-09-18 13:55:31] - MrRavi sold 256 x String(Mobs.page1.items.18) for $448 with the sell all command.
+[2024-09-18 13:56:51] - MrRavi sold 64 x Rail(Miscellaneous.page2.items.63) for $192 with the sell screen.
+[2024-09-18 13:56:52] - MrRavi sold 64 x Rail(Miscellaneous.page2.items.63) for $192 with the sell screen.
+[2024-09-18 13:56:54] - MrRavi sold 28 x Rail(Miscellaneous.page2.items.63) for $84 with the sell screen.
+[2024-09-18 13:57:11] - MrRavi bought 1 x Slime Block(Blocks.page1.items.8) for $47.25 with the buy screen.
+[2024-09-18 13:57:11] - MrRavi bought 1 x Slime Block(Blocks.page1.items.8) for $47.25 with the buy screen.
+[2024-09-18 13:58:25] - MrRavi sold 146 x Rail(Miscellaneous.page2.items.63) for $438 with the sell all command.
+[2024-09-18 13:58:33] - MrRavi sold 320 x String(Mobs.page1.items.18) for $560 with the sell all command.
+[2024-09-18 13:58:40] - MrRavi sold 165 x String(Mobs.page1.items.18) for $288.75 with the sell all command.
+[2024-09-18 14:00:25] - MrRavi sold 146 x Rail(Miscellaneous.page2.items.63) for $438 with the sell all command.
+[2024-09-18 14:01:01] - MrRavi sold 289 x String(Mobs.page1.items.18) for $505.75 with the sell all command.
+[2024-09-18 14:01:07] - MrRavi sold 80 x String(Mobs.page1.items.18) for $140 with the sell all command.
+[2024-09-18 14:01:47] - MrRavi sold 96 x String(Mobs.page1.items.18) for $168 with the sell all command.
+[2024-09-18 14:01:52] - MrRavi sold 146 x Rail(Miscellaneous.page2.items.63) for $438 with the sell all command.
+[2024-09-18 14:02:04] - MrRavi sold 114 x Rail(Miscellaneous.page2.items.63) for $342 with the sell all command.
+[2024-09-18 14:02:59] - MrRavi sold 194 x Rail(Miscellaneous.page2.items.63) for $582 with the sell all command.
+[2024-09-18 14:03:09] - MrRavi sold 204 x String(Mobs.page1.items.18) for $357 with the sell all command.
+[2024-09-19 13:26:31] - MrRavi sold 56 x Rail(Miscellaneous.page2.items.63) for $168 with the sell screen.
+[2024-09-19 13:26:56] - MrRavi sold 166 x Rail(Miscellaneous.page2.items.63) for $498 with the sell all command.
+[2024-09-19 13:27:00] - MrRavi sold 6 x Rail(Miscellaneous.page2.items.63) for $18 with the sell all command.
+[2024-09-19 13:27:14] - MrRavi sold 320 x String(Mobs.page1.items.18) for $560 with the sell all command.
+[2024-09-19 13:27:25] - MrRavi sold 99 x Rail(Miscellaneous.page2.items.63) for $297 with the sell all command.
+[2024-09-19 13:27:28] - Smaayloo sold 102 x Rail(Miscellaneous.page2.items.63) for $306 with the quick sell screen.
+[2024-09-19 13:27:34] - MrRavi sold 97 x Rail(Miscellaneous.page2.items.63) for $291 with the sell all command.
+[2024-09-19 13:29:04] - MrRavi sold 20 x Rail(Miscellaneous.page2.items.63) for $60 with the sell all command.
+[2024-09-19 13:31:26] - MrRavi sold 320 x String(Mobs.page1.items.18) for $560 with the sell all command.
+[2024-09-19 13:33:45] - MrRavi sold 167 x Rail(Miscellaneous.page2.items.63) for $501 with the sell all command.
+[2024-09-19 13:33:58] - Smaayloo sold 410 x Rail(Miscellaneous.page2.items.63) for $1,230 with the quick sell screen.
+[2024-09-19 13:34:03] - MrRavi sold 63 x Rail(Miscellaneous.page2.items.63) for $189 with the sell all command.
+[2024-09-19 13:34:08] - MrRavi sold 256 x String(Mobs.page1.items.18) for $448 with the sell all command.
+[2024-09-19 13:34:12] - MrRavi sold 320 x String(Mobs.page1.items.18) for $560 with the sell all command.
+[2024-09-19 13:34:15] - MrRavi sold 21 x String(Mobs.page1.items.18) for $36.75 with the sell all command.
+[2024-09-19 13:35:07] - Smaayloo sold 242 x Rail(Miscellaneous.page2.items.63) for $726 with the quick sell screen.
+[2024-09-19 13:35:39] - MrRavi sold 192 x String(Mobs.page1.items.18) for $336 with the sell all command.
+[2024-09-19 13:36:49] - Smaayloo bought 3 x Red Bed(Miscellaneous.page1.items.25) for $284.79 with the buy screen.
+[2024-09-19 13:37:44] - MrRavi sold 192 x String(Mobs.page1.items.18) for $336 with the sell all command.
+[2024-09-19 13:40:46] - Smaayloo bought 16 x Lantern(Miscellaneous.page2.items.56) for $392.32 with the buy screen.
+[2024-09-19 13:41:08] - MrRavi sold 256 x String(Mobs.page1.items.18) for $448 with the sell all command.
+[2024-09-19 13:41:36] - Smaayloo bought 3 x Spruce Planks(Blocks.page5.items.212) for $2.21 with the buy screen.
+[2024-09-19 13:41:46] - Smaayloo bought 3 x Spruce Planks(Blocks.page5.items.212) for $2.21 with the buy screen.
+[2024-09-19 13:42:40] - MrRavi bought 1 x Slime Block(Blocks.page1.items.8) for $47.25 with the buy screen.
+[2024-09-19 13:42:40] - MrRavi bought 1 x Slime Block(Blocks.page1.items.8) for $47.25 with the buy screen.
+[2024-09-19 13:42:46] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:42:46] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:42:47] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:42:47] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:42:47] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:42:48] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:42:48] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:42:48] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 13:43:00] - MrRavi bought 1 x Observer(Redstone.page1.items.11) for $50.04 with the buy screen.
+[2024-09-19 13:43:17] - Smaayloo bought 2 x Barrel(Workstations.page1.items.1) for $10.90 with the buy screen.
+[2024-09-19 13:45:37] - MrRavi bought 1 x Netherite Ingot(Ores.page1.items.20) for $2,465.19 with the buy screen.
+[2024-09-19 13:45:39] - Smaayloo bought 33 x Spruce Planks(Blocks.page5.items.212) for $24.41 with the buy screen.
+[2024-09-19 13:45:40] - Smaayloo bought 33 x Spruce Planks(Blocks.page5.items.212) for $24.41 with the buy screen.
+[2024-09-19 13:45:41] - Smaayloo bought 33 x Spruce Planks(Blocks.page5.items.212) for $24.41 with the buy screen.
+[2024-09-19 13:46:11] - MrRavi bought 1 x Diamond(Ores.page1.items.9) for $840 with the buy screen.
+[2024-09-19 13:48:16] - MrRavi bought 64 x Stone Brick Stairs(Blocks.page4.items.164) for $48 with the buy screen.
+[2024-09-19 13:50:46] - Smaayloo bought 64 x Stone Bricks(Blocks.page4.items.165) for $48 with the buy screen.
+[2024-09-19 13:52:21] - MrRavi sold 1 x Dispenser(Redstone.page1.items.3) for $8.74 with the sell screen.
+[2024-09-19 13:52:21] - MrRavi sold 1 x Dispenser(Redstone.page1.items.3) for $8.74 with the sell screen.
+[2024-09-19 13:52:27] - Smaayloo bought 3 x Diamond(Ores.page1.items.9) for $2,520 with the buy screen.
+[2024-09-19 13:52:52] - MrRavi bought 1 x Netherite Upgrade Smithing Template(Decoration.page3.items.132) for $193.05 with the buy screen.
+[2024-09-19 13:55:16] - Smaayloo bought 17 x White Wool(Blocks.page6.items.237) for $499.79 with the buy screen.
+[2024-09-19 14:01:26] - Smaayloo bought 4 x Campfire(Miscellaneous.page2.items.58) for $130.88 with the buy screen.
+[2024-09-19 14:04:02] - Smaayloo bought 2 x Flower Pot(Decoration.page1.items.2) for $138.92 with the buy screen.
+[2024-09-19 14:10:03] - Smaayloo bought 64 x Cooked Porkchop(Food.page1.items.14) for $403.20 with the buy screen.
+[2024-09-19 14:11:12] - Smaayloo bought 2 x Glass Pane(Blocks.page3.items.113) for $4.98 with the buy screen.
+[2024-09-19 14:18:05] - Smaayloo sold 704 x String(Mobs.page1.items.18) for $1,232 with the quick sell screen.
+[2024-09-19 14:20:30] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:20:30] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:20:30] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:20:30] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:20:31] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:20:31] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:20:46] - Smaayloo bought 6 x Barrel(Workstations.page1.items.1) for $32.70 with the buy screen.
+[2024-09-19 14:20:59] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:21:00] - MrRavi bought 1 x Glass(Blocks.page3.items.112) for $6.30 with the buy screen.
+[2024-09-19 14:21:02] - Smaayloo sold 142 x Rail(Miscellaneous.page2.items.63) for $426 with the quick sell screen.
+[2024-09-19 14:21:17] - MrRavi sold 108 x Rail(Miscellaneous.page2.items.63) for $324 with the sell all command.
+[2024-09-19 14:21:50] - Smaayloo bought 5 x Brewing Stand(Workstations.page1.items.3) for $37 with the buy screen.
+[2024-09-19 14:22:09] - MrRavi sold 220 x Rail(Miscellaneous.page2.items.63) for $660 with the sell all command.
+[2024-09-19 14:26:28] - MrRavi sold 320 x Rail(Miscellaneous.page2.items.63) for $960 with the sell all command.
+[2024-09-19 14:26:32] - MrRavi sold 273 x Rail(Miscellaneous.page2.items.63) for $819 with the sell all command.
+[2024-09-19 14:26:49] - MrRavi bought 1 x Enchanted Book(Enchanting.page1.items.38) for $441 with the buy screen.
+[2024-09-19 14:26:54] - MrRavi bought 1 x Enchanted Book(Enchanting.page1.items.21) for $160 with the buy screen.
+[2024-09-19 14:26:57] - MrRavi bought 1 x Enchanted Book(Enchanting.page1.items.12) for $705.60 with the buy screen.
+[2024-09-19 14:26:59] - Smaayloo bought 1 x Cactus(Farming.page1.items.7) for $0.10 with the buy screen.
+[2024-09-19 14:27:12] - MrRavi bought 1 x Enchanted Book(Enchanting.page1.items.7) for $972.41 with the buy screen.
+[2024-09-19 14:27:50] - Smaayloo bought 1 x Light Blue Candle(Decoration.page1.items.14) for $12.30 with the buy screen.
+[2024-09-19 14:27:52] - Smaayloo bought 1 x Candle(Decoration.page1.items.10) for $10.66 with the buy screen.
+[2024-09-19 14:27:55] - Smaayloo bought 1 x Cyan Candle(Decoration.page1.items.11) for $11.83 with the buy screen.
+[2024-09-19 14:28:00] - MrRavi sold 256 x Rail(Miscellaneous.page2.items.63) for $768 with the sell all command.
+[2024-09-19 14:28:08] - MrRavi sold 221 x Rail(Miscellaneous.page2.items.63) for $663 with the sell all command.
+[2024-09-19 14:29:27] - MrRavi sold 469 x Cobblestone(Blocks.page2.items.54) for $79.72 with the sell all command.
+[2024-09-19 14:29:41] - MrRavi sold 576 x Rail(Miscellaneous.page2.items.63) for $1,728 with the sell all command.
+[2024-09-19 14:29:54] - MrRavi sold 302 x Rail(Miscellaneous.page2.items.63) for $906 with the sell all command.
+[2024-09-19 14:31:47] - MrRavi sold 320 x Rail(Miscellaneous.page2.items.63) for $960 with the sell all command.
+[2024-09-19 14:32:02] - MrRavi sold 169 x Cobblestone(Blocks.page2.items.54) for $28.73 with the sell all command.
+[2024-09-19 14:32:14] - MrRavi sold 512 x Rail(Miscellaneous.page2.items.63) for $1,536 with the sell all command.
+[2024-09-19 14:35:45] - MrRavi sold 256 x Rail(Miscellaneous.page2.items.63) for $768 with the sell all command.
+[2024-09-19 14:35:50] - MrRavi sold 127 x Cobblestone(Blocks.page2.items.54) for $21.59 with the sell all command.
+[2024-09-19 14:36:46] - MrRavi sold 320 x Rail(Miscellaneous.page2.items.63) for $960 with the sell all command.
+[2024-09-19 14:36:53] - MrRavi sold 320 x Rail(Miscellaneous.page2.items.63) for $960 with the sell all command.
+[2024-09-19 14:36:57] - MrRavi sold 320 x Rail(Miscellaneous.page2.items.63) for $960 with the sell all command.
+[2024-09-19 14:37:01] - MrRavi sold 320 x Rail(Miscellaneous.page2.items.63) for $960 with the sell all command.
+[2024-09-19 14:37:05] - MrRavi sold 52 x Rail(Miscellaneous.page2.items.63) for $156 with the sell all command.
+[2024-09-19 14:38:43] - MrRavi sold 320 x Rail(Miscellaneous.page2.items.63) for $960 with the sell all command.
+[2024-09-19 14:42:52] - MrRavi sold 128 x Rail(Miscellaneous.page2.items.63) for $384 with the sell all command.
+[2024-09-19 14:42:57] - MrRavi sold 128 x Rail(Miscellaneous.page2.items.63) for $384 with the sell all command.
+[2024-09-19 14:43:04] - MrRavi sold 116 x Rail(Miscellaneous.page2.items.63) for $348 with the sell all command.
+[2024-09-19 14:43:22] - MrRavi sold 198 x Cobblestone(Blocks.page2.items.54) for $33.66 with the sell all command.
+[2024-09-19 14:44:07] - MrRavi bought 17 x Spruce Stairs(Blocks.page5.items.214) for $19.72 with the buy screen.
+[2024-09-19 14:44:45] - MrRavi sold 28 x Gravel(Blocks.page3.items.104) for $56 with the sell all command.
+[2024-09-19 14:46:42] - MrRavi sold 110 x Cobblestone(Blocks.page2.items.54) for $18.70 with the sell all command.
+[2024-09-19 14:53:08] - MrRavi sold 64 x Cobblestone(Blocks.page2.items.54) for $10.88 with the sell all command.
+[2024-09-19 14:53:16] - MrRavi sold 64 x Cobblestone(Blocks.page2.items.54) for $10.88 with the sell all command.
+[2024-09-19 14:54:12] - MrRavi bought 4 x Spruce Planks(Blocks.page5.items.212) for $2.96 with the buy screen.
+[2024-09-19 14:54:29] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:29] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:30] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:30] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:30] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:30] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:30] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:31] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:31] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:31] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:31] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:31] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:31] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:32] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:32] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:32] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:32] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:32] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:33] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 14:54:33] - MrRavi bought 64 x Stone(Blocks.page1.items.11) for $46.08 with the buy screen.
+[2024-09-19 15:02:53] - MrRavi bought 64 x Spruce Planks(Blocks.page5.items.212) for $47.36 with the buy screen.
+[2024-09-19 15:02:54] - MrRavi bought 64 x Spruce Planks(Blocks.page5.items.212) for $47.36 with the buy screen.
+[2024-09-19 15:03:01] - MrRavi bought 64 x Red Wool(Blocks.page6.items.236) for $1,881.60 with the buy screen.
+[2024-09-19 15:07:25] - MrRavi bought 64 x Polished Andesite(Blocks.page1.items.16) for $48 with the buy screen.
+[2024-09-19 15:10:27] - MrRavi bought 33 x Andesite(Blocks.page1.items.15) for $23.75 with the buy screen.
+[2024-09-19 15:12:58] - MrRavi bought 64 x Oak Planks(Blocks.page5.items.207) for $47.36 with the buy screen.
+[2024-09-19 15:13:41] - MrRavi bought 33 x Birch Planks(Blocks.page4.items.176) for $24.41 with the buy screen.
+[2024-09-19 15:14:53] - MrRavi bought 3 x Diamond(Ores.page1.items.9) for $2,520 with the buy screen.
+[2024-09-19 15:15:42] - MrRavi sold 58 x Red Wool(Blocks.page6.items.236) for $426.29 with the sell screen.
+[2024-09-19 15:15:49] - MrRavi bought 4 x Light Gray Wool(Blocks.page6.items.230) for $117.60 with the buy screen.
+[2024-09-19 15:15:52] - MrRavi bought 4 x White Wool(Blocks.page6.items.237) for $117.60 with the buy screen.
+[2024-09-19 15:18:28] - MrRavi bought 17 x White Wool(Blocks.page6.items.237) for $499.79 with the buy screen.
+[2024-09-19 15:18:31] - MrRavi bought 1 x White Wool(Blocks.page6.items.237) for $29.40 with the buy screen.
+[2024-09-19 15:18:35] - MrRavi bought 16 x Light Gray Wool(Blocks.page6.items.230) for $470.40 with the buy screen.
+[2024-09-19 15:18:41] - MrRavi bought 2 x Light Gray Wool(Blocks.page6.items.230) for $58.80 with the buy screen.
+[2024-09-19 15:21:35] - MrRavi bought 64 x Oak Planks(Blocks.page5.items.207) for $47.36 with the buy screen.
+[2024-09-19 15:21:35] - MrRavi bought 64 x Oak Planks(Blocks.page5.items.207) for $47.36 with the buy screen.
+[2024-09-21 04:34:21] - MrRavi sold 576 x String(Mobs.page1.items.18) for $1,008 with the sell all command.
+[2024-09-21 04:34:26] - MrRavi sold 576 x String(Mobs.page1.items.18) for $1,008 with the sell all command.
+[2024-09-21 04:34:30] - MrRavi sold 31 x String(Mobs.page1.items.18) for $54.25 with the sell all command.
+[2024-09-21 04:43:09] - Smaayloo bought 33 x Iron Ingot(Ores.page1.items.16) for $693 with the buy screen.
+[2024-09-21 04:46:01] - Smaayloo sold 2048 x String(Mobs.page1.items.18) for $3,584 with the quick sell screen.
+[2024-09-21 04:46:14] - Smaayloo sold 155 x String(Mobs.page1.items.18) for $271.25 with the quick sell screen.
+[2024-09-21 04:46:27] - Smaayloo bought 64 x Cooked Porkchop(Food.page1.items.14) for $403.20 with the buy screen.
+[2024-09-21 04:46:49] - Smaayloo bought 3 x Diamond(Ores.page1.items.9) for $2,520 with the buy screen.
+[2024-09-21 04:47:05] - Smaayloo bought 3 x Diamond(Ores.page1.items.9) for $2,520 with the buy screen.
+[2024-09-21 04:50:27] - MrRavi bought 64 x Oak Log(Blocks.page5.items.206) for $192 with the buy screen.
+[2024-09-21 04:51:40] - MrRavi bought 49 x Oak Leaves(Decoration.page2.items.61) for $147 with the buy screen.
+[2024-09-21 04:52:22] - MrRavi bought 13 x Stone Brick Slab(Blocks.page4.items.163) for $4.94 with the buy screen.
+[2024-09-21 04:52:34] - MrRavi bought 10 x Glass(Blocks.page3.items.112) for $63 with the buy screen.
+[2024-09-21 04:53:02] - MrRavi bought 33 x Iron Ingot(Ores.page1.items.16) for $693 with the buy screen.
+[2024-09-21 04:53:15] - MrRavi bought 17 x Iron Ingot(Ores.page1.items.16) for $357 with the buy screen.
+[2024-09-21 04:54:19] - MrRavi sold 1344 x String(Mobs.page1.items.18) for $2,352 with the sell all command.
+[2024-09-21 04:54:25] - MrRavi sold 685 x String(Mobs.page1.items.18) for $1,198.75 with the sell all command.
+[2024-09-21 04:55:06] - MrRavi bought 8 x Observer(Redstone.page1.items.11) for $400.32 with the buy screen.
+[2024-09-21 04:55:15] - MrRavi bought 4 x Piston(Redstone.page1.items.22) for $130.96 with the buy screen.
+[2024-09-21 04:55:27] - MrRavi bought 3 x Note Block(Redstone.page1.items.10) for $35.07 with the buy screen.
+[2024-09-21 04:55:42] - MrRavi bought 1 x Tnt(Blocks.page1.items.12) for $106.58 with the buy screen.
+[2024-09-21 04:55:49] - MrRavi bought 1 x Sand(Blocks.page4.items.150) for $6 with the buy screen.
+[2024-09-21 04:56:06] - MrRavi bought 2 x Oak Log(Blocks.page5.items.206) for $6 with the buy screen.
+[2024-09-21 04:56:45] - MrRavi bought 8 x Stone Bricks(Blocks.page4.items.165) for $6 with the buy screen.
+[2024-09-21 04:58:04] - Smaayloo bought 1 x Flower Pot(Decoration.page1.items.2) for $69.46 with the buy screen.
+[2024-09-21 04:58:14] - MrRavi bought 17 x Lava Bucket(Miscellaneous.page1.items.15) for $1,183.54 with the buy screen.
+[2024-09-21 04:59:34] - MrRavi bought 4 x Repeater(Redstone.page1.items.18) for $80.76 with the buy screen.
+[2024-09-21 05:00:06] - MrRavi bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-09-21 05:00:06] - MrRavi bought 1 x Stone(Blocks.page1.items.11) for $0.72 with the buy screen.
+[2024-09-21 05:00:37] - MrRavi bought 64 x Scaffolding(Miscellaneous.page1.items.28) for $85.12 with the buy screen.
+[2024-09-21 05:10:43] - MrRavi sold 2048 x String(Mobs.page1.items.18) for $3,584 with the sell all command.
+[2024-09-21 05:10:58] - MrRavi sold 1295 x String(Mobs.page1.items.18) for $2,266.25 with the sell all command.
+[2024-09-21 05:13:21] - MrRavi bought 12 x Oak Log(Blocks.page5.items.206) for $36 with the buy screen.
+[2024-09-21 05:13:21] - MrRavi bought 12 x Oak Log(Blocks.page5.items.206) for $36 with the buy screen.
+[2024-09-21 05:14:21] - Smaayloo bought 33 x Birch Log(Blocks.page4.items.175) for $99 with the buy screen.
+[2024-09-21 05:16:42] - Smaayloo bought 2 x Elytra(Miscellaneous.page1.items.8) for $4,830.40 with the buy screen.
+[2024-09-21 05:17:44] - Smaayloo sold 990 x String(Mobs.page1.items.18) for $1,732.50 with the quick sell screen.
+[2024-09-21 05:20:11] - Smaayloo bought 17 x Writable Book(Miscellaneous.page1.items.42) for $832.15 with the buy screen.
+[2024-09-21 05:35:43] - MrRavi bought 64 x Golden Carrot(Food.page1.items.8) for $2,029.44 with the buy screen.
+[2024-09-21 05:35:43] - Smaayloo bought 2 x Firework Rocket(Miscellaneous.page1.items.999) for $606 with the buy screen.
+[2024-09-21 05:36:26] - MrRavi bought 2 x Lava Bucket(Miscellaneous.page1.items.15) for $69.62 with the buy screen.
+[2024-09-21 05:36:36] - MrRavi bought 1 x Lava Bucket(Miscellaneous.page1.items.15) for $69.62 with the buy screen.
+[2024-09-21 05:40:55] - Smaayloo sold 960 x String(Mobs.page1.items.18) for $1,680 with the quick sell screen.
+[2024-09-21 05:41:09] - Smaayloo sold 960 x String(Mobs.page1.items.18) for $1,680 with the quick sell screen.
+[2024-09-21 05:41:21] - Smaayloo sold 960 x String(Mobs.page1.items.18) for $1,680 with the quick sell screen.
+[2024-09-21 05:41:35] - Smaayloo sold 328 x String(Mobs.page1.items.18) for $574 with the quick sell screen.
+[2024-09-21 05:44:02] - Smaayloo bought 1 x Glass Pane(Blocks.page3.items.113) for $2.49 with the buy screen.
+[2024-09-21 05:44:22] - Smaayloo bought 1 x Glass Pane(Blocks.page3.items.113) for $2.49 with the buy screen.
+[2024-09-21 05:49:39] - Smaayloo bought 17 x Lantern(Miscellaneous.page2.items.56) for $416.84 with the buy screen.
+[2024-09-21 05:51:00] - Smaayloo bought 1 x Grindstone(Workstations.page1.items.7) for $2.75 with the buy screen.
+[2024-09-21 05:51:29] - Smaayloo bought 1 x Anvil(Miscellaneous.page1.items.1) for $713.32 with the buy screen.
+[2024-09-21 05:52:10] - Smaayloo bought 1 x Flower Pot(Decoration.page1.items.2) for $69.46 with the buy screen.
+[2024-09-21 06:03:07] - MrRavi bought 4 x Sticky Piston(Redstone.page1.items.23) for $158.52 with the buy screen.
+[2024-09-21 06:03:13] - MrRavi bought 4 x Observer(Redstone.page1.items.11) for $200.16 with the buy screen.
+[2024-09-21 06:03:19] - MrRavi bought 1 x Lever(Redstone.page1.items.8) for $1.12 with the buy screen.
+[2024-09-21 06:03:19] - MrRavi bought 1 x Lever(Redstone.page1.items.8) for $1.12 with the buy screen.
+[2024-09-21 06:03:26] - MrRavi bought 6 x Slime Block(Blocks.page1.items.8) for $283.50 with the buy screen.
+[2024-09-21 06:04:50] - MrRavi bought 2 x Stone(Blocks.page1.items.11) for $1.44 with the buy screen.
+[2024-09-21 06:06:03] - MrRavi bought 2 x Rail(Miscellaneous.page2.items.63) for $30 with the buy screen.
+[2024-09-21 06:08:53] - MrRavi bought 33 x Glass(Blocks.page3.items.112) for $207.90 with the buy screen.
+[2024-09-21 06:09:07] - MrRavi sold 256 x Rail(Miscellaneous.page2.items.63) for $768 with the sell all command.
+[2024-09-21 06:09:11] - MrRavi sold 34 x Rail(Miscellaneous.page2.items.63) for $102 with the sell all command.
+[2024-09-21 06:13:36] - MrRavi bought 64 x Iron Ingot(Ores.page1.items.16) for $1,344 with the buy screen.
+[2024-09-21 06:14:39] - MrRavi bought 7 x Repeater(Redstone.page1.items.18) for $141.33 with the buy screen.
+[2024-09-21 06:14:49] - MrRavi bought 2 x Slime Block(Blocks.page1.items.8) for $94.50 with the buy screen.
+[2024-09-21 06:15:52] - Smaayloo bought 17 x Lantern(Miscellaneous.page2.items.56) for $416.84 with the buy screen.
+[2024-09-21 06:18:08] - MrRavi bought 64 x Glass(Blocks.page3.items.112) for $403.20 with the buy screen.
+[2024-09-21 06:21:05] - MrRavi sold 384 x Rail(Miscellaneous.page2.items.63) for $1,152 with the sell all command.
+[2024-09-21 06:21:09] - MrRavi sold 251 x Rail(Miscellaneous.page2.items.63) for $753 with the sell all command.
+[2024-09-21 06:24:05] - MrRavi sold 210 x Rail(Miscellaneous.page2.items.63) for $630 with the sell all command.
+[2024-09-21 06:27:35] - MrRavi sold 38 x Rail(Miscellaneous.page2.items.63) for $114 with the sell all command.
+[2024-09-21 06:29:00] - MrRavi sold 448 x Rail(Miscellaneous.page2.items.63) for $1,344 with the sell all command.
+[2024-09-21 06:29:04] - MrRavi sold 274 x Rail(Miscellaneous.page2.items.63) for $822 with the sell all command.
+[2024-09-21 06:30:45] - zingo sold 1 x Rail(Miscellaneous.page2.items.63) for $3 with the sell screen.
+[2024-09-21 06:34:57] - MrRavi sold 72 x Rail(Miscellaneous.page2.items.63) for $216 with the sell all command.
+[2024-09-21 06:35:00] - Smaayloo sold 263 x Rail(Miscellaneous.page2.items.63) for $789 with the quick sell screen.

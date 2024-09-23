@@ -9,13 +9,13 @@ npc:
     uuid: a7346891-026c-4cc6-adf4-75d3f514fe15
     traits:
       location:
-        bodyYaw: -1.380249
+        bodyYaw: -61.881744
         world: spawn
         x: -761.9804
         y: 62.0
         z: -230.4807
-        yaw: -1.3802
-        pitch: -2.2386
+        yaw: -61.8817
+        pitch: -7.1615
       type: ALLAY
       spawned: true
       gravity:
@@ -46,7 +46,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: commandtrait,mounttrait,lookclose,type,owner,scoreboardtrait,age,location,spawned,rotationtrait,gravity
+    traitnames: lookclose,commandtrait,age,scoreboardtrait,location,owner,rotationtrait,gravity,spawned,mounttrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -58,13 +58,13 @@ npc:
     uuid: 988b6c3d-9abe-4a61-9eab-acdd9ab1e779
     traits:
       location:
-        bodyYaw: -129.33873
+        bodyYaw: 110.66127
         world: spawn
         x: -758.4601
         y: 62.0
         z: -218.641
-        yaw: -129.3387
-        pitch: -15.3244
+        yaw: 110.6613
+        pitch: -9.9884
       type: ALLAY
       spawned: true
       gravity:
@@ -96,7 +96,7 @@ npc:
           '0': 0.0
           '1': 360.0
       hologramtrait: {}
-    traitnames: commandtrait,mounttrait,lookclose,type,owner,scoreboardtrait,age,location,spawned,hologramtrait,rotationtrait,gravity
+    traitnames: lookclose,hologramtrait,commandtrait,age,scoreboardtrait,location,owner,rotationtrait,gravity,spawned,mounttrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -108,13 +108,13 @@ npc:
     uuid: d79c4961-57ef-490e-a3c9-826977810bae
     traits:
       location:
-        bodyYaw: -158.10704
+        bodyYaw: -164.72354
         world: spawn
         x: -733.4839
         y: 62.0
         z: -202.4333
-        yaw: -158.107
-        pitch: -11.3594
+        yaw: -164.7235
+        pitch: -10.7829
       type: ALLAY
       spawned: true
       gravity:
@@ -145,7 +145,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: commandtrait,mounttrait,lookclose,type,owner,scoreboardtrait,age,location,spawned,rotationtrait,gravity
+    traitnames: lookclose,commandtrait,age,scoreboardtrait,location,owner,rotationtrait,gravity,spawned,mounttrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -158,13 +158,13 @@ npc:
     traits:
       type: ALLAY
       location:
-        bodyYaw: 85.74411
+        bodyYaw: 89.69751
         world: spawn
         x: -709.6163
         y: 62.0
         z: -226.3783
-        yaw: 85.7441
-        pitch: -2.8187
+        yaw: 89.6975
+        pitch: -2.0984
       lookclose:
         range: 5.0
         enabled: true
@@ -193,7 +193,7 @@ npc:
             experienceCost: -1
       gravity:
         enabled: true
-    traitnames: commandtrait,mounttrait,lookclose,type,owner,scoreboardtrait,location,spawned,rotationtrait,gravity
+    traitnames: lookclose,commandtrait,scoreboardtrait,location,owner,rotationtrait,gravity,spawned,mounttrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -232,7 +232,7 @@ npc:
             experienceCost: -1
       owner:
         uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
-    traitnames: commandtrait,mounttrait,type,owner,scoreboardtrait,location,spawned,gravity
+    traitnames: commandtrait,scoreboardtrait,location,owner,gravity,spawned,mounttrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -290,7 +290,7 @@ npc:
             cost: -1.0
             experienceCost: -1
       type: PLAYER
-    traitnames: commandtrait,lookclose,type,owner,scoreboardtrait,inventory,skintrait,location,spawned,rotationtrait,hologramtrait
+    traitnames: lookclose,hologramtrait,commandtrait,inventory,scoreboardtrait,location,owner,rotationtrait,spawned,skintrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -348,7 +348,7 @@ npc:
             cost: -1.0
             experienceCost: -1
       type: PLAYER
-    traitnames: commandtrait,lookclose,type,owner,scoreboardtrait,inventory,skintrait,location,spawned,rotationtrait,hologramtrait
+    traitnames: lookclose,hologramtrait,commandtrait,inventory,scoreboardtrait,location,owner,rotationtrait,spawned,skintrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -406,7 +406,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: commandtrait,lookclose,type,owner,scoreboardtrait,inventory,skintrait,location,spawned,rotationtrait,hologramtrait
+    traitnames: lookclose,hologramtrait,commandtrait,inventory,scoreboardtrait,location,owner,rotationtrait,spawned,skintrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -445,7 +445,7 @@ npc:
       type: ALLAY
       owner:
         uuid: 1f94f176-d12e-4907-86fb-439e3fb36d02
-    traitnames: commandtrait,type,owner,scoreboardtrait,location,spawned,gravity
+    traitnames: commandtrait,scoreboardtrait,location,owner,gravity,spawned,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -476,7 +476,7 @@ npc:
             cost: -1.0
             experienceCost: -1
       location:
-        bodyYaw: 142.46854
+        bodyYaw: 130.49486
         world: spawn
         x: -729.6501
         y: 62.0
@@ -503,7 +503,7 @@ npc:
         randomYawRange:
           '0': 0.0
           '1': 360.0
-    traitnames: commandtrait,lookclose,type,owner,scoreboardtrait,inventory,skintrait,location,spawned,rotationtrait,hologramtrait
+    traitnames: lookclose,hologramtrait,commandtrait,inventory,scoreboardtrait,location,owner,rotationtrait,spawned,skintrait,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -542,7 +542,7 @@ npc:
       type: ALLAY
       gravity:
         enabled: true
-    traitnames: commandtrait,type,owner,scoreboardtrait,location,spawned,gravity
+    traitnames: commandtrait,scoreboardtrait,location,owner,gravity,spawned,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false
@@ -580,17 +580,17 @@ npc:
           '0': 0.0
           '1': 360.0
       location:
-        bodyYaw: -155.48386
+        bodyYaw: 138.47061
         world: spawn
         x: -733.5231
         y: 62.0
         z: -191.7
-        yaw: -155.4839
-        pitch: -7.8404
+        yaw: 142.8822
+        pitch: -2.9858
       type: ALLAY
       gravity:
         enabled: true
-    traitnames: commandtrait,lookclose,type,owner,scoreboardtrait,location,spawned,hologramtrait,rotationtrait,gravity
+    traitnames: lookclose,hologramtrait,commandtrait,scoreboardtrait,location,owner,rotationtrait,gravity,spawned,type
     navigator:
       speedmodifier: 1.0
       avoidwater: false

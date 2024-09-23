@@ -1,0 +1,81 @@
+backup_version: 2
+users:
+    da59ffe0-ea8b-3b7e-bd84-25e7f2ee2d38:
+        skills:
+            auraskills/enchanting: {level: 1, xp: 0.0}
+            auraskills/foraging: {level: 1, xp: 0.0}
+            auraskills/excavation: {level: 1, xp: 0.7}
+            auraskills/defense: {level: 1, xp: 70.0}
+            auraskills/farming: {level: 1, xp: 0.0}
+            auraskills/alchemy: {level: 1, xp: 0.0}
+            auraskills/sorcery: {level: 1, xp: 0.0}
+            auraskills/fighting: {level: 1, xp: 0.0}
+            auraskills/archery: {level: 1, xp: 0.0}
+            auraskills/healing: {level: 1, xp: 0.0}
+            auraskills/endurance: {level: 1, xp: 0.0}
+            auraskills/forging: {level: 1, xp: 0.0}
+            auraskills/agility: {level: 1, xp: 10.0}
+            auraskills/fishing: {level: 1, xp: 0.0}
+            auraskills/mining: {level: 1, xp: 0.0}
+        mana: 20.0
+    1f94f176-d12e-4907-86fb-439e3fb36d02:
+        skills:
+            auraskills/enchanting: {level: 1, xp: 0.0}
+            auraskills/foraging: {level: 1, xp: 0.0}
+            auraskills/excavation: {level: 1, xp: 0.7}
+            auraskills/defense: {level: 1, xp: 2.5}
+            auraskills/farming: {level: 1, xp: 0.0}
+            auraskills/alchemy: {level: 1, xp: 0.0}
+            auraskills/sorcery: {level: 1, xp: 0.0}
+            auraskills/fighting: {level: 1, xp: 0.0}
+            auraskills/archery: {level: 1, xp: 0.0}
+            auraskills/healing: {level: 1, xp: 0.0}
+            auraskills/endurance: {level: 2, xp: 135.52169}
+            auraskills/forging: {level: 1, xp: 0.0}
+            auraskills/fishing: {level: 1, xp: 0.0}
+            auraskills/agility: {level: 2, xp: 20.0}
+            auraskills/mining: {level: 1, xp: 0.0}
+        mana: 22.0
+    9102234e-50be-3e42-9051-5d96cbfcd189:
+        skills:
+            auraskills/enchanting: {level: 1, xp: 0.0}
+            auraskills/excavation: {level: 4, xp: 284.72999999999644}
+            auraskills/foraging: {level: 5, xp: 906.3199999999931}
+            auraskills/defense: {level: 2, xp: 45.780598640441895}
+            auraskills/farming: {level: 4, xp: 893.9600000000019}
+            auraskills/alchemy: {level: 1, xp: 0.0}
+            auraskills/sorcery: {level: 1, xp: 0.0}
+            auraskills/fighting: {level: 2, xp: 100.0}
+            auraskills/healing: {level: 1, xp: 0.0}
+            auraskills/archery: {level: 1, xp: 0.0}
+            auraskills/endurance: {level: 7, xp: 671.3131490000002}
+            auraskills/forging: {level: 3, xp: 120.0}
+            auraskills/agility: {level: 4, xp: 225.39999999999984}
+            auraskills/fishing: {level: 1, xp: 0.0}
+            auraskills/mining: {level: 4, xp: 433.4400000000342}
+        mana: 28.0
+        trait_modifiers:
+        - {name: mining_luck_ability, trait: auraskills/mining_luck, value: 3.0}
+        - {name: foraging_luck_ability, trait: auraskills/foraging_luck, value: 10.0}
+        - {name: farming_luck_ability, trait: auraskills/farming_luck, value: 10.0}
+    5b4e41c7-75df-3ca9-b2f6-4ae300c21981:
+        skills:
+            auraskills/enchanting: {level: 1, xp: 0.0}
+            auraskills/foraging: {level: 4, xp: 821.2399999999966}
+            auraskills/excavation: {level: 1, xp: 34.100000000000016}
+            auraskills/defense: {level: 2, xp: 148.4433069229126}
+            auraskills/farming: {level: 1, xp: 0.0}
+            auraskills/alchemy: {level: 1, xp: 0.0}
+            auraskills/sorcery: {level: 1, xp: 5.0}
+            auraskills/fighting: {level: 2, xp: 22.0}
+            auraskills/healing: {level: 1, xp: 0.0}
+            auraskills/archery: {level: 1, xp: 0.0}
+            auraskills/endurance: {level: 5, xp: 809.3234440000002}
+            auraskills/forging: {level: 1, xp: 0.0}
+            auraskills/agility: {level: 4, xp: 286.59999999999985}
+            auraskills/fishing: {level: 1, xp: 0.0}
+            auraskills/mining: {level: 3, xp: 277.4000000000009}
+        mana: 26.0
+        trait_modifiers:
+        - {name: mining_luck_ability, trait: auraskills/mining_luck, value: 3.0}
+        - {name: foraging_luck_ability, trait: auraskills/foraging_luck, value: 10.0}

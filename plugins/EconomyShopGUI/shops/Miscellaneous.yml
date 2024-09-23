@@ -193,7 +193,7 @@ pages:
         buy: 1.17
         sell: 0.3
   page2:
-    gui-rows: 3
+    gui-rows: 4
     items:
       '45':
         material: GLOBE_BANNER_PATTERN
@@ -267,3 +267,7 @@ pages:
         material: SCULK_SHRIEKER
         buy: 20000
         sell: 5000
+      '63':
+        material: RAIL
+        buy: 15
+        sell: 3

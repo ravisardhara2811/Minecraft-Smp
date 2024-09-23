@@ -1,0 +1,47 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.0.0.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1726992307610
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1726993953773
+  login: 1726991816836
+money: '34102.62000000000005'
+last-account-name: zingo
+lastlocation:
+  world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+  world-name: world
+  x: -1174.9517101922322
+  y: 86.0
+  z: -1776.7967927198454
+  yaw: -68.69873046875
+  pitch: 19.350223541259766
+logoutlocation:
+  world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+  world-name: world
+  x: -1062.2216032154872
+  y: 85.0
+  z: -1804.3949186739385
+  yaw: 163.955078125
+  pitch: 23.550004959106445
+homes:
+  home:
+    world: 64efa267-2fcb-41fc-ab85-89a54cf600b1
+    world-name: world
+    x: -1075.100579683147
+    y: 93.0
+    z: -1763.06626592892
+    yaw: -86.69921875
+    pitch: 9.450193405151367
